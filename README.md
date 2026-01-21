@@ -12,9 +12,9 @@ The course will start the first week of February, with Week #1 resources being r
 
 ## Resources
 
-The pre-course learning materials are now [available]([/course/00_GitHub/index.qmd](https://umgcccfcsr.github.io/CytometryInR/course/00_GitHub/)), providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
+The pre-course learning materials are now [available]([/course/00_GitHub/index.qmd](https://umgcccfcsr.github.io/CytometryInR/course/00_GitHub/), providing walkthroughs of how to set up your workstations with the required software, and exercises to help you become more familiar with the various teaching and coding resources we will be using throughout the course. 
 
-Narrated versions of the walk through materials are now also available via [YouTube](https://www.youtube.com/@CytometryInR)
+Narrated versions of the walk through materials will be available starting next week via [YouTube](https://www.youtube.com/@CytometryInR)
 
 
 ## In-Person (Baltimore)
